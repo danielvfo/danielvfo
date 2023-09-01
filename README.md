@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielvfo" target="blank"><img src="https://img.shields.io/twitter/follow/danielvfo?logo=twitter&style=for-the-badge" alt="danielvfo" /></a> </p>
 
-- 🔭 I’m currently working on [Omega Energia](https://omegaenergia.com.br/)
+- 🔭 I’m currently working at [Omega Energia](https://omegaenergia.com.br/)
 
 - 🌱 I’m currently learning **Domain Driven Design, GitHub Actions**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danielvfo](https://www.linkedin.com/in/danielvfo)
 
-- 文A Languages **PT 🇧🇷, ES 🇪🇸, EN 🇺🇸.**
+- 文 Languages I communicate just fine **PT 🇧🇷, ES 🇲🇽, EN 🇺🇸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
