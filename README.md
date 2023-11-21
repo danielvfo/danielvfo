@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Vieira. Welcome to my GitHub!</h1>
+<h1 align="center">Hi, I'm Daniel. Welcome to my GitHub!</h1>
 
 <div align="center">
   <img alt="A grafic bar showing the most used languages, the most important are CSS, JavaScript and TypeScript." height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielvfo&layout=compact"/>
