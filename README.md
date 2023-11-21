@@ -9,9 +9,9 @@
   <h2 align="left">About me</h2>
   <img src="https://octodex.github.com/images/linktocat.jpg" alt="Mona the Octocat in the style of Link, the famous swordsman from the Legend Of Zelda series, from Nintendo. Mona is wearing a green tunic and a green beanie, standing on a greener grass round pad. She is holding the Master Sword in one tentacle on her left, and the Hylian Shield in another tentacle on her right. She also has golden hair like the hero from the series." height="180em"/>
   <p align="left">I'm a full-stack developer from Brazil. I communicate in English, Spanish, and Portuguese. Furthermore, I've been working with software development for over 6 years and have worked with languages or frameworks like TypeScript, Nest.js, JavaScript, React.js, Node.js, PHP, HTML, CSS, and SQL. I like to try new languages, and I'm very adaptable.</p>
-  </br>
+  
   <p align="left">I view the beauty of complex problem-solving as the most beautiful characteristic of software engineering. As a system grows and technologies evolve, the challenge of bringing the most adequate solution to the table becomes bigger and requires more creativity. I'm a big fan of The Legend of Zelda series, which is why I brought Linktocat image. The puzzle-solving in the series inspires my creativity.</p>
-  </br>
+  
   <p align="left">I'm constantly looking for new learning opportunities and learning to understand my limitations. I also love to collaborate. Tracing a solution in collaboration is always more fun. Currently, I'm looking to expand my knowledge of software design patterns, AWS, and domain-driven design (DDD).</p>
 </div>
 
