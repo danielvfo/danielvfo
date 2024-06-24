@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Daniel. Welcome to my GitHub!</h1>
 
 <div align="center">
-  <img alt="A grafic bar showing the most used languages, the most important are CSS, JavaScript and TypeScript." height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielvfo&layout=compact"/>
-  <img alt="A graphic art showing some GitHub statistics. The most relavant one is showing over 900 commits." height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielvfo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
   <h2 align="left">About me</h2>
   <img src="https://octodex.github.com/images/linktocat.jpg" alt="Mona the Octocat in the style of Link, the famous swordsman from the Legend Of Zelda series, from Nintendo. Mona is wearing a green tunic and a green beanie, standing on a greener grass round pad. She is holding the Master Sword in one tentacle on her left, and the Hylian Shield in another tentacle on her right. She also has golden hair like the hero from the series." height="180em"/>
   <p align="left">I'm a full-stack developer from Brazil. I communicate in English, Spanish, and Portuguese. Furthermore, I've been working with software development for over 6 years and have worked with languages or frameworks like TypeScript, Nest.js, JavaScript, React.js, Node.js, PHP, HTML, CSS, and SQL. I like to try new languages, and I'm very adaptable.</p>
