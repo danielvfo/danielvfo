@@ -50,7 +50,6 @@
 
 <div alignm="left">
   <h2>Connect with me</h2>
-  <a href="https://twitter.com/danielvfo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="danielvfo twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/danielvfo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="danielvfo linkedin" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/9724108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danielvfo stack overflow" height="30" width="40" /></a>
 </div>
