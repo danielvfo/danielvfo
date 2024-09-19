@@ -19,7 +19,7 @@
   <a href="https://tc39.es/ecma262/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express.js" width="40" height="40" /></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest.js" width="40" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40" /></a>        
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>        
   <h3>Front-end</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react.js" width="40" height="40" /></a>
   <a href="https://tc39.es/ecma262/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" /></a>
@@ -50,6 +50,6 @@
 
 <div alignm="left">
   <h2>Connect with me</h2>
-  <a href="https://linkedin.com/in/danielvfo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="danielvfo linkedin" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/danielvfo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="danielvfo linkedin" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/9724108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danielvfo stack overflow" height="30" width="40" /></a>
 </div>
